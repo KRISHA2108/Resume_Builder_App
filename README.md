@@ -1,3 +1,21 @@
+# Resume Builder App
+
+## Description
+
+The Resume Builder App is a powerful tool that allows users to create professional resumes with ease. Users can add personal information, education details, job experience, skills, and more. The app provides a real-time preview of the resume layout, ensuring it looks perfect before downloading or sharing. Built using Flutter, this app is designed for simplicity and efficiency, making resume creation a seamless experience.
+
+## Features
+
+- **Add Personal Information:** Enter and update personal details like name, contact information, and more.
+- **Education Details:** Input your academic history with degrees, institutions, and graduation dates.
+- **Work Experience:** Document your job history with positions, companies, and durations.
+- **Skills Section:** Showcase your skills with customizable entries.
+- **Real-Time Preview:** View your resume layout as you build it, ensuring it meets your expectations.
+- **PDF Export & Share:** Download your resume as a PDF and share it directly from the app.
+
+
+
+OUTPUT:
 
 <img src = "https://github.com/user-attachments/assets/95a7c3a7-d834-441a-857b-e3ee6832a5cd" width = "200">
 <img src = "https://github.com/user-attachments/assets/8b351662-cffc-4c53-ba6a-57e65f8ab7ee" width = "200">
